@@ -36,7 +36,6 @@ El sentido del curso es permitir una lectura crítica de investigaciones cuantit
 * **Posada Hernández, G. J.** (2016). *Elementos básicos de estadística descriptiva para el análisis de datos*. Fondo Editorial Luis Amigó.
 * **Taucher, E.** (2014). *Bioestadística*. Editorial Universitaria.
 
-
 ## 📚 Contenidos
 
 ### Unidad 1: Aportes a la ciencia desde la investigación y la estadística
