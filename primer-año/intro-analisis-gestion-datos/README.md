@@ -29,7 +29,13 @@ El sentido del curso es permitir una lectura crítica de investigaciones cuantit
 * **L.** Interpretar los índices obtenidos mediante técnicas de estadística descriptiva.
 * **M.** Estar en condiciones de tomar decisiones en el ámbito profesional.
 
----
+## 📚 Bibliografía
+
+* **Cobo, E., Muñoz, P., & González, J. A.** (2007). *Bioestadística para no estadísticos*. Elsevier Masson.
+* **Montero Lorenzo, J. M.** (2007). *Estadística descriptiva*. Thomson Paraninfo.
+* **Posada Hernández, G. J.** (2016). *Elementos básicos de estadística descriptiva para el análisis de datos*. Fondo Editorial Luis Amigó.
+* **Taucher, E.** (2014). *Bioestadística*. Editorial Universitaria.
+
 
 ## 📚 Contenidos
 
