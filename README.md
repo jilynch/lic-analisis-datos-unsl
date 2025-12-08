@@ -34,7 +34,9 @@ Este repositorio contiene apuntes, guías prácticas y material de estudio de ma
 
 ### Primer año
 
-* Introducción al Análisis y Gestión de Datos
+*### Primer año
+
+* [Introducción al Análisis y Gestión de Datos](primer-año/intro-analisis-gestion-datos)
 
 ---
 
